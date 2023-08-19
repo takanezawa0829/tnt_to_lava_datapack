@@ -1,0 +1,1 @@
+execute at @a if block ~ ~-1 ~ minecraft:dead_fire_coral_block run setblock ~ ~-1 ~ minecraft:lava
