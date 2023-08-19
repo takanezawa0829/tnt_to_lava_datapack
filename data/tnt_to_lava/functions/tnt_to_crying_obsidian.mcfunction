@@ -1,0 +1,9 @@
+execute at @a if block ~ ~-0.01 ~ minecraft:tnt run setblock ~ ~-0.01 ~ minecraft:crying_obsidian
+execute at @a if block ~1 ~-0.01 ~1 minecraft:tnt run setblock ~1 ~-0.01 ~1 minecraft:crying_obsidian
+execute at @a if block ~ ~-0.01 ~1 minecraft:tnt run setblock ~ ~-0.01 ~1 minecraft:crying_obsidian
+execute at @a if block ~-1 ~-0.01 ~1 minecraft:tnt run setblock ~-1 ~-0.01 ~1 minecraft:crying_obsidian
+execute at @a if block ~1 ~-0.01 ~ minecraft:tnt run setblock ~1 ~-0.01 ~ minecraft:crying_obsidian
+execute at @a if block ~-1 ~-0.01 ~ minecraft:tnt run setblock ~-1 ~-0.01 ~ minecraft:crying_obsidian
+execute at @a if block ~1 ~-0.01 ~-1 minecraft:tnt run setblock ~1 ~-0.01 ~-1 minecraft:crying_obsidian
+execute at @a if block ~ ~-0.01 ~-1 minecraft:tnt run setblock ~ ~-0.01 ~-1 minecraft:crying_obsidian
+execute at @a if block ~-1 ~-0.01 ~-1 minecraft:tnt run setblock ~-1 ~-0.01 ~-1 minecraft:crying_obsidian

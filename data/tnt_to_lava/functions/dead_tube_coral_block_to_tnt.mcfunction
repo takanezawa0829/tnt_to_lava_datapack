@@ -1,0 +1,1 @@
+execute at @a run fill ~-15 ~-15 ~-15 ~15 ~15 ~15 minecraft:tnt replace dead_tube_coral_block
